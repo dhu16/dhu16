@@ -6,7 +6,7 @@ Hi, I am a Master's student at Columbia University studying computer science. I 
 
 - Interested in: human-computer interaction and user interface design and development. 
 
-- I currently work as a graduate research assistant at Columbia's Computer Graphics and User Interfaces Lab under Professor Steve Feiner, where I develop various sorts of user interfaces with Unity and in C#, which are deployed to mixed reality headsets for user exploration.
+- I currently work as a graduate research assistant at Columbia's Computer Graphics and User Interfaces Lab under Professor Steve Feiner, where I develop various sorts of user interfaces with Unity and in C#, which are deployed to mixed reality headsets and Android devices for user exploration.
 
 
 <!--
