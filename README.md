@@ -18,6 +18,7 @@ I currently work as a graduate research assistant at Columbia's [Computer Graphi
 
 - Human-computer interaction 👦 🤖
 - User interface design and development 📱 💻
+- Making daily life more convenient through software development
 
 </br>
 
