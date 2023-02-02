@@ -1,5 +1,10 @@
 <h1 align='center'> Hi :grin:, I'm Daniel </h1>
 
+<p align='center'>
+<a href='https://www.linkedin.com/in/daniel-hu-b59b82195/'><img align='center' src='https://raw.githubusercontent.com/dhu16/dhu16/main/linkedin.svg' alt='icon | LinkedIn' width='21px'/></a>
+<a href='https://www.instagram.com/danielhu.16/'><img align='center' src='https://raw.githubusercontent.com/dhu16/dhu16/main/instagram.svg' alt='icon | Instagram' width='21px'/></a>
+</p>
+
 <h3>
 Hi, I am a Master's student at Columbia University studying computer science. I completed my undergrad at UCLA in spring 2022 where I studied cognitive science. 
 </h3>
