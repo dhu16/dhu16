@@ -1,8 +1,8 @@
 <h1 align='center'> Hi :grin:, I'm Daniel </h1>
 
-<h4>
+<h3>
 Hi, I am a Master's student at Columbia University studying computer science. I completed my undergrad at UCLA in spring 2022 where I studied cognitive science. 
-</h4>
+</h3>
 
 - I am interested in human-computer interaction and user interface design and development. 
 
