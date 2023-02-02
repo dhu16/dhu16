@@ -9,7 +9,7 @@
 I am a Master's student at Columbia University studying computer science. I am also UCLA Class of 2022 and majored in cognitive science. 
 </p>
 
-I currently work as a graduate research assistant at Columbia's [Computer Graphics and User Interfaces Lab](https://graphics.cs.columbia.edu/home)
+I currently work as a graduate research assistant at Columbia's [Computer Graphics and User Interfaces Lab](https://graphics.cs.columbia.edu/home) where I use Unity and C# to develop various 3D user interfaces.
 
 </br>
 
