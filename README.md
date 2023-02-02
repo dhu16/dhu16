@@ -22,6 +22,12 @@ I currently work as a graduate research assistant at Columbia's [Computer Graphi
 </br>
 
 
+<h2 align='left'>:paintbrush: Some user interfaces I've designed and implemented: </h2>
+
+
+
+</br>
+
 ## 💼 I have experience with:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -55,6 +61,9 @@ I currently work as a graduate research assistant at Columbia's [Computer Graphi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
 
 <!--
 **dhu16/dhu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
