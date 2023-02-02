@@ -11,6 +11,9 @@ I am a Master's student at Columbia University studying computer science. I am a
 
 I currently work as a graduate research assistant at Columbia's [Computer Graphics and User Interfaces Lab](https://graphics.cs.columbia.edu/home)
 
+
+
+
 <h2 align='left'>:telescope:I am interested in: </h2>
 
 - Human-computer interaction 
