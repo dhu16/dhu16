@@ -6,12 +6,12 @@
 </p>
 
 <h3>
-Hi, I am a Master's student at Columbia University studying computer science. I completed my undergrad at UCLA in spring 2022 where I studied cognitive science. 
+Hi, I am a Master's student at Columbia University studying computer science. I am also UCLA Class of 2022 and majored in cognitive science. 
 </h3>
 
 - Interested in: human-computer interaction and user interface design and development. 
 
-- I currently work as a graduate research assistant at Columbia's Computer Graphics and User Interfaces Lab under Professor Steve Feiner, where I develop various sorts of user interfaces with Unity and in C#, which are deployed to mixed reality headsets and Android devices for user exploration.
+- I currently work as a graduate research assistant at Columbia's [Computer Graphics and User Interfaces Lab](https://graphics.cs.columbia.edu/home) under Professor Steve Feiner, where I develop various sorts of user interfaces with Unity and in C#, which are deployed to mixed reality headsets and Android devices for user exploration.
 
 
 <!--
