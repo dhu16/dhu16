@@ -5,11 +5,13 @@
 <a href='https://www.instagram.com/danielhu.16/'><img align='center' src='https://raw.githubusercontent.com/dhu16/dhu16/main/instagram.svg' alt='icon | Instagram' width='21px'/></a>
 </p>
 
-<p>
-I am a Master's student at Columbia University 🦁 studying computer science. I am also UCLA 🐻 Class of 2022 and majored in cognitive science. 
+<p align="center">
+I'm a Master's student at Columbia University 🦁 studying computer science. I am also UCLA 🐻 Class of 2022 and majored in cognitive science. 
 </p>
 
-I currently work as a graduate research assistant at Columbia's [Computer Graphics and User Interfaces Lab](https://graphics.cs.columbia.edu/home) where I use Unity and C# to develop various 3D user interfaces.
+<p align="center">I currently work as a graduate research assistant at Columbia's <a href="https://graphics.cs.columbia.edu/home" target="_blank" rel="noreferrer">Computer Graphics and User Interfaces Lab</a> where I use Unity and C# to develop various 3D user interfaces for mixed reality headwear.</p>
+
+<p align="center">I'm a programmer with both front-end and back-end development experience!</p>
 
 </br>
 
@@ -25,6 +27,19 @@ I currently work as a graduate research assistant at Columbia's [Computer Graphi
 
 <h2 align='left'>:paintbrush: Some user interfaces I've designed and implemented: </h2>
 
+<h3 align="center">React Native/Figma:</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44564696/216665322-318a145c-ee54-41e8-b29b-d248f64fc097.png"/>
+  <img src="https://user-images.githubusercontent.com/44564696/216665392-2876e2ac-9a87-4628-b460-58369c7bb1d0.png"/>
+</p>
+
+</br>
+
+<h3 align="center">Swift/Figma:</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44564696/216666898-1ea5ceec-eaf1-4ed3-ac48-17a6eb86e670.png"/>
+  <img src="https://user-images.githubusercontent.com/44564696/216666989-d3a8ee61-2a49-499b-a16e-4741712daeb7.png"/>
+</p>
 
 
 </br>
