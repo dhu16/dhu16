@@ -37,8 +37,8 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 <h3 align="center">Swift/Figma:</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44564696/216666898-1ea5ceec-eaf1-4ed3-ac48-17a6eb86e670.png"/>
-  <img src="https://user-images.githubusercontent.com/44564696/216666989-d3a8ee61-2a49-499b-a16e-4741712daeb7.png"/>
+  <img src="https://user-images.githubusercontent.com/44564696/216742178-07e1a5e5-2137-4db9-8e07-659b5bc45088.png"/>
+  <img src="https://user-images.githubusercontent.com/44564696/216742235-c1ee35b3-bbc5-4377-b0e2-739bf7f0ca8f.png"/>
 </p>
 
 
