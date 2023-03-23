@@ -41,6 +41,14 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
   <img src="https://user-images.githubusercontent.com/44564696/216742235-c1ee35b3-bbc5-4377-b0e2-739bf7f0ca8f.png"/>
 </p>
 
+</br>
+
+<h3 align="center">Unity:</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44564696/227084026-939ac3c6-259a-4a8e-a5b5-801263a6a33f.png"/>
+</p>
+
+
 
 </br>
 
