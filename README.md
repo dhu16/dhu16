@@ -11,7 +11,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 <p align="center">I currently work as a graduate research assistant at Columbia's <a href="https://graphics.cs.columbia.edu/home" target="_blank" rel="noreferrer">Computer Graphics and User Interfaces Lab</a> where I use Unity and C# to develop various 3D user interfaces for mixed reality headwear.</p>
 
-<p align="center">I'm a programmer with both <a href="https://github.com/dhu16/user-interfaces-portfolio" target="_blank" rel="noreferrer">front-end</a> and <a href="https://github.com/dhu16/iOSbruinrushprototypeV1/blob/master/bruinlabs/ReviewsViewModel.swift" target="_blank" rel="noreferrer">back-end</a> development as well as <a href="https://github.com/dhu16/patternmatchingengine" target="_blank" rel="noreferrer">runtime optimization</a> experience!</p>
+<p align="center">I'm a programmer with both <a href="https://github.com/dhu16/user-interfaces-portfolio" target="_blank" rel="noreferrer">front-end</a> and <a href="https://github.com/dhu16/iOSbruinrushprototypeV1/blob/master/bruinlabs/ReviewsViewModel.swift" target="_blank" rel="noreferrer">back-end</a> development experience!</p>
 
 </br>
 
