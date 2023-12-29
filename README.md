@@ -41,6 +41,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.11.05%20PM.png?raw=true"/>
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.10.30%20PM.png?raw=true"/>
+  <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.26.57%20PM.png?raw=true"/>
 </p>
 
 </br>
