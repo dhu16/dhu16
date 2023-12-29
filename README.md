@@ -22,7 +22,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 ## 📝 I can write in:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -30,11 +30,27 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Golang](https://img.shields.io/badge/golang-%231572B6.svg?style=for-the-badge&logo=golang3&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 </br>
 
-<h2 align='left'>:paintbrush: Some user interfaces I've designed and implemented: </h2>
+<h2 align='left'>:paintbrush: Some user interfaces and web apps I've designed and implemented: </h2>
+
+<h3 align="center"> <a href="https://rocky-inlet-94258-676c28639eb3.herokuapp.com/login" target="_blank" rel="noreferrer">Streaming Platform for Student Films</a> - Ruby on Rails/Javascript </h3>
+<p align="center">
+  <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.11.05%20PM.png?raw=true"/>
+  <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.10.30%20PM.png?raw=true"/>
+</p>
+
+</br>
+
+<h3 align="center"> <a href="https://dhu16.pythonanywhere.com/" target="_blank" rel="noreferrer">AI Tool for Fantasy Football</a> - Python/Javascript </h3>
+<p align="center">
+  <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.09.34%20PM.png?raw=true"/>
+</p>
+
+</br>
 
 <h3 align="center">React Native/Figma:</h3>
 <p align="center">
