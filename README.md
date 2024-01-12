@@ -33,7 +33,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
-<h2 align='left'>:paintbrush: Some user interfaces and web apps I've designed and implemented: </h2>
+<h2 align='left'>:paintbrush: Some web apps and user interfaces I've designed and implemented on my own and collaboratively: </h2>
 
 <h3 align="center"> <a href="https://github.com/dhu16/opal-local" target="_blank" rel="noreferrer"> Streaming Platform for Student Films</a> - Ruby on Rails/Javascript </h3>
 <p align="center">
