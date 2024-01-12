@@ -12,7 +12,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 <h2 align='left'>:telescope: I am interested in: </h2>
 
 - Human-computer interaction 👦 🤖
-- User interface design and development 📱 💻
+- Building web apps and user interfaces 📱 💻
 - Making daily life more convenient through software development
 
 </br>
