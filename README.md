@@ -35,7 +35,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 <h2 align='left'>:paintbrush: Some user interfaces and web apps I've designed and implemented: </h2>
 
-<h3 align="center"> Streaming Platform for Student Films - Ruby on Rails/Javascript </h3>
+<h3 align="center"> <a href="https://github.com/dhu16/opal-local" target="_blank" rel="noreferrer"> Streaming Platform for Student Films</a> - Ruby on Rails/Javascript </h3>
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.11.05%20PM.png?raw=true"/>
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.10.30%20PM.png?raw=true"/>
@@ -44,7 +44,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
-<h3 align="center"> <a href="https://dhu16.pythonanywhere.com/" target="_blank" rel="noreferrer">AI Tool for Fantasy Football</a> - Python/Javascript </h3>
+<h3 align="center"> <a href="https://github.com/dhu16/wAIverwire" target="_blank" rel="noreferrer">AI Tool for Fantasy Football</a> - Python/Javascript </h3>
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.09.34%20PM.png?raw=true"/>
 </p>
