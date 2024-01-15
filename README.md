@@ -35,7 +35,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 <h2 align='left'>:paintbrush: Some projects I've built: </h2>
 
-<h3 align="center"> <a href="https://github.com/dhu16/opal-local" target="_blank" rel="noreferrer"> Streaming Platform for Student Films</a> - Ruby on Rails/Javascript </h3>
+<h3 align="center"> <a href="https://github.com/dhu16/opal-local" target="_blank" rel="noreferrer"> Streaming Platform for Student Films</a> - Ruby on Rails, Javascript </h3>
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.11.05%20PM.png?raw=true"/>
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.10.30%20PM.png?raw=true"/>
@@ -44,14 +44,14 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
-<h3 align="center"> <a href="https://dhu16.pythonanywhere.com/" target="_blank" rel="noreferrer">AI Web App for Fantasy Football</a> - Python/Javascript </h3>
+<h3 align="center"> <a href="https://dhu16.pythonanywhere.com/" target="_blank" rel="noreferrer">AI Web App for Fantasy Football</a> - Python, Javascript </h3>
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.09.34%20PM.png?raw=true"/>
 </p>
 
 </br>
 
-<h3 align="center">React Native/node.js:</h3>
+<h3 align="center">React Native, node.js:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44564696/216665322-318a145c-ee54-41e8-b29b-d248f64fc097.png"/>
   <img src="https://user-images.githubusercontent.com/44564696/216665392-2876e2ac-9a87-4628-b460-58369c7bb1d0.png"/>
@@ -59,7 +59,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
-<h3 align="center">Swift/UIKit:</h3>
+<h3 align="center">Swift, UIKit:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44564696/216742178-07e1a5e5-2137-4db9-8e07-659b5bc45088.png"/>
   <img src="https://user-images.githubusercontent.com/44564696/216742235-c1ee35b3-bbc5-4377-b0e2-739bf7f0ca8f.png"/>
@@ -67,12 +67,12 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
-<h3 align="center">Unity/iOS:</h3>
+<h3 align="center">Unity, C#, iOS:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44564696/227084026-939ac3c6-259a-4a8e-a5b5-801263a6a33f.png"/>
 </p>
 </br>
-<h3 align="center">Unity/Meta Quest 2:</h3>
+<h3 align="center">Educational Bartending in Virtual Reality - Unity, C#, Meta Quest 2:</h3>
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/unnamed.jpg?raw=true"/>
   <img src="https://github.com/dhu16/dhu16/blob/main/unnamed.png?raw=true"/>
