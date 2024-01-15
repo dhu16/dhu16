@@ -47,6 +47,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 <h3 align="center"> <a href="https://dhu16.pythonanywhere.com/" target="_blank" rel="noreferrer">AI Web App for Fantasy Football</a> - Python, Javascript </h3>
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.09.34%20PM.png?raw=true"/>
+  <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202024-01-15%20at%203.26.22%20PM.png?raw=true"/>
 </p>
 
 </br>
