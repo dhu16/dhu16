@@ -51,7 +51,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
-<h3 align="center">React Native/Figma:</h3>
+<h3 align="center">React Native/node.js:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44564696/216665322-318a145c-ee54-41e8-b29b-d248f64fc097.png"/>
   <img src="https://user-images.githubusercontent.com/44564696/216665392-2876e2ac-9a87-4628-b460-58369c7bb1d0.png"/>
@@ -59,7 +59,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
-<h3 align="center">Swift/Figma:</h3>
+<h3 align="center">Swift/UIKit:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44564696/216742178-07e1a5e5-2137-4db9-8e07-659b5bc45088.png"/>
   <img src="https://user-images.githubusercontent.com/44564696/216742235-c1ee35b3-bbc5-4377-b0e2-739bf7f0ca8f.png"/>
