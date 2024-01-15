@@ -67,10 +67,12 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
-<h3 align="center">Unity:</h3>
+<h3 align="center">Unity/iOS:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44564696/227084026-939ac3c6-259a-4a8e-a5b5-801263a6a33f.png"/>
 </p>
+</br>
+<h3 align="center">Unity/Meta Quest 2:</h3>
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/unnamed.jpg?raw=true"/>
   <img src="https://github.com/dhu16/dhu16/blob/main/unnamed.png?raw=true"/>
