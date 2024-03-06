@@ -4,7 +4,7 @@
 I'm a Master's student at Columbia University 🦁 studying computer science. I am also UCLA 🐻 Class of 2022 and majored in cognitive science. 
 </p>
 
-<p align="center">I currently work as a graduate research assistant at Columbia's <a href="https://graphics.cs.columbia.edu/home" target="_blank" rel="noreferrer">Computer Graphics and User Interfaces Lab</a> where I use Unity and C# to develop various 3D user interfaces for mixed reality headwear.</p>
+<p align="center">I currently work as a graduate research assistant at Columbia's <a href="https://graphics.cs.columbia.edu/home" target="_blank" rel="noreferrer">Computer Graphics and User Interfaces Lab</a> where I use Unity and C# to develop various 3D user interfaces for mixed reality headwear such as Meta Quest, XReal, and MagicLeap.</p>
 
 </br>
 
