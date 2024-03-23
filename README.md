@@ -52,6 +52,14 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 </br>
 
+<h3 align="center"> <a href="https://github.com/dhu16/sportsbox" target="_blank" rel="noreferrer">Discord Bot and Open Source Library for Sports Highlights and Statistics</a> - Python, Javascript </h3>
+<p align="center">
+  <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202024-03-23%20at%2012.33.30%20PM.png?raw=true"/>
+  <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202024-03-23%20at%2012.34.21%20PM.png?raw=true"/>
+</p>
+
+</br>
+
 <h3 align="center">React Native, node.js:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44564696/216665322-318a145c-ee54-41e8-b29b-d248f64fc097.png"/>
