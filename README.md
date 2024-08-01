@@ -4,7 +4,7 @@
 I am a Columbia University 🦁 Class of 2024 grad with an MS in Computer Science. I was also UCLA 🐻 Class of 2022 and majored in Cognitive Science. 
 </p>
 
-<p align="center">I've interned as a software engineer at Tesla and worked as a graduate research assistant at Columbia's <a href="https://graphics.cs.columbia.edu/home" target="_blank" rel="noreferrer">Computer Graphics and User Interfaces Lab</a> where I used Unity and C# to develop various mixed reality applications and 3D user interfaces for mixed reality headwear such as Meta Quest, XReal, and MagicLeap.</p>
+<p align="center">I've interned as a software engineer at Tesla and worked as a graduate research assistant at Columbia's <a href="https://graphics.cs.columbia.edu/home" target="_blank" rel="noreferrer">Computer Graphics and User Interfaces Lab</a> where I used Unity and C# to research and develop various mixed reality applications and 3D user interfaces.</p>
 
 </br>
 
