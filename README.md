@@ -1,10 +1,10 @@
 <h1 align='center'> Hi :grin:, I'm Daniel </h1>
 
 <p align="center">
-I'm a Master's student at Columbia University 🦁 studying computer science. I am also UCLA 🐻 Class of 2022 and majored in cognitive science. 
+I was a Master's student at Columbia University 🦁 studying computer science. I was also UCLA 🐻 Class of 2022 and majored in cognitive science. 
 </p>
 
-<p align="center">I currently work as a graduate research assistant at Columbia's <a href="https://graphics.cs.columbia.edu/home" target="_blank" rel="noreferrer">Computer Graphics and User Interfaces Lab</a> where I use Unity and C# to develop various 3D user interfaces for mixed reality headwear such as Meta Quest, XReal, and MagicLeap.</p>
+<p align="center">I've interned as a software engineer at Tesla and worked as a graduate research assistant at Columbia's <a href="https://graphics.cs.columbia.edu/home" target="_blank" rel="noreferrer">Computer Graphics and User Interfaces Lab</a> where I used Unity and C# to develop various mixed reality applications and 3D user interfaces for mixed reality headwear such as Meta Quest, XReal, and MagicLeap.</p>
 
 </br>
 
