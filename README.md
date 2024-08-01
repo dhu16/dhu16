@@ -35,7 +35,8 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 <h2 align='left'>:paintbrush: Some projects I've built: </h2>
 
-<h3 align="center"> <a href="https://github.com/dhu16/opal-local" target="_blank" rel="noreferrer"> Streaming Platform for Student Films</a> - Ruby on Rails, Javascript </h3>
+<h3 align="center"> <a href="https://github.com/dhu16/opal-local" target="_blank" rel="noreferrer"> Streaming Platform for Student Films</a> (click link for more project screenshots) </h3>
+<h4 align="center"> Ruby on Rails, Javascript </h4>
 <h4 align="center"> <a href="https://www.youtube.com/watch?v=u5qNyNGzL9g" target="_blank" rel="noreferrer"> Demo Video</a> (this was made before our User Comments feature) </h4>
 <p align="center">
   <img src="https://github.com/dhu16/dhu16/blob/main/Screenshot%202023-12-28%20at%208.11.05%20PM.png?raw=true"/>
