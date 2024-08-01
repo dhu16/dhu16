@@ -11,7 +11,7 @@ I'm a Master's student at Columbia University 🦁 studying computer science. I 
 
 <h2 align='left'>:telescope: I am interested in: </h2>
 
-- Human-computer interaction 👦 🤖
+- Human-computer interaction research 👦 🤖
 - Building web apps, backend services, and user interfaces 📱 💻
 - Making daily life more convenient through software development
 
